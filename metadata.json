@@ -1,0 +1,6 @@
+{
+  "name": "LinkScope & Dispatch API",
+  "description": "AI-powered website link analysis, competitor & SEO intelligence, and automated multi-platform publishing platform with FastAPI blueprint export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
